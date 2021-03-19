@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.debug{
+  background-color: lightgreen;
+  min-height: 40px;
+
+}
+
+.ac-container{
+  width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  background-color: brown;
+}
+
+header{
+  height: 65px;
+  background-color: aqua;
+}
