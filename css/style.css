@@ -7,6 +7,7 @@
 .debug{
   background-color: lightgreen;
   min-height: 40px;
+  border: 1px solid black;
 
 }
 
