@@ -5,8 +5,8 @@
 }
 
 .debug{
-  background-color: lightgreen;
-  min-height: 40px;
+  background-color: rgb(236, 209, 230);
+  min-height: 50px;
   border: 1px solid black;
 
 }
@@ -18,7 +18,7 @@
   background-color: brown;
 }
 
-header{
+#nav{
   height: 65px;
   background-color: aqua;
 }
