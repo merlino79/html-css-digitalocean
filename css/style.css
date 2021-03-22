@@ -20,6 +20,8 @@
         line-height: 80px;
         position: fixed;
         z-index: 3;
+        top: 0%;
+        right: 0;
     }
     
     .header-bottom {
