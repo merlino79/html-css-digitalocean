@@ -1,26 +1,28 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-
-.debug{
-  background-color: rgb(236, 209, 230);
-  min-height: 50px;
-  border: 1px solid black;
-
+.debug {
+    background-color: rgb(236, 209, 230);
+    min-height: 50px;
+    border: 1px solid black;
 }
 
-
-
-header{
-  height: 65px;
-  background-color: #ebebeb;
+header {
+    height: 65px;
+    background-color: #ebebeb;
 }
 
-#jambatron{
-  width: 100%;
-  height: 495px;
-  background-color: #004AFF;
+#jambatron {
+    width: 100%;
+    height: 495px;
+    background-color: #004AFF;
+}
+
+#developer {
+    width: 100%;
+    height: 100%;
+    background-color: #F3F5F9;
 }
