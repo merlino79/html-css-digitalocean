@@ -25,6 +25,11 @@
         right: 0;
     }
     
+    .header-bottom {
+        min-height: 500px;
+        margin-top: 20px;
+    }
+    
     img.loghi {
         width: 250px;
         position: fixed;
