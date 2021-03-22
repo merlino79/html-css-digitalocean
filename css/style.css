@@ -31,6 +31,9 @@
     img.loghi {
         width: 220px;
         background-color: #ebebeb;
+        position: fixed;
+        top: 0;
+        left: 0;
     }
     
     #jambatron {
