@@ -53,3 +53,15 @@ header {
     height: 100%;
     background-color: #004AFF;
 }
+
+#teams {
+    width: 100%;
+    height: 400px;
+    background-color: #929396;
+    position: relative;
+}
+
+#started {
+    height: 100%;
+    background-color: #004AFF;
+}
