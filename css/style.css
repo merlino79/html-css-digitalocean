@@ -13,6 +13,7 @@
     header {
         height: 65px;
         background-color: #fff;
+        margin-bottom: 20px;
     }
     
     .header-up {
@@ -22,10 +23,6 @@
         z-index: 3;
         top: 0%;
         right: 0;
-    }
-    
-    .header-bottom {
-        min-height: 80px;
     }
     
     img.loghi {
@@ -44,11 +41,18 @@
     .link-central,
     a {
         color: black;
+        padding: 8px;
+    }
+    
+    .btn-default {
+        color: #529EFD;
+        background-color: #fff;
+        border-color: #ccc;
     }
     
     #jambatron {
         width: 100%;
-        height: 495px;
+        height: 400px;
         background-color: #004AFF;
     }
     
