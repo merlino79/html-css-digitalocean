@@ -1,72 +1,81 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.debug {
-    background-color: rgb(236, 209, 230);
-    min-height: 50px;
-    border: 1px solid black;
-}
-
-header {
-    height: 65px;
-    background-color: #ebebeb;
-}
-
-#jambatron {
-    width: 100%;
-    height: 495px;
-    background-color: #004AFF;
-}
-
-#developer {
-    width: 100%;
-    height: 400px;
-    background-color: #929396;
-    position: relative;
-}
-
-.item {
-    width: 50%;
-    height: 100%;
-    background-color: lawngreen;
-    position: absolute;
-    top: 100%;
-    left: 20%;
-    transform: translate(100% - 20%);
-}
-
-.item .img {
-    max-width: 100%;
-    height: 200px;
-    background-color: aquamarine;
-}
-
-#businnes {
-    height: 100%;
-    background-color: lawngreen;
-}
-
-#service {
-    height: 100%;
-    background-color: #004AFF;
-}
-
-#teams {
-    width: 100%;
-    height: 400px;
-    background-color: #929396;
-    position: relative;
-}
-
-#started {
-    height: 100%;
-    background-color: #004AFF;
-}
-
-#footer {
-    height: 100%;
-    background-color: #062063;
-}
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .debug {
+        background-color: rgb(236, 209, 230);
+        min-height: 50px;
+        border: 1px solid black;
+    }
+    
+    header {
+        height: 65px;
+        background-color: #ebebeb;
+    }
+    
+    #jambatron {
+        width: 100%;
+        height: 495px;
+        background-color: #004AFF;
+    }
+    
+    #developer {
+        width: 100%;
+        height: 400px;
+        background-color: #929396;
+        position: relative;
+    }
+    
+    .nav-tabs {
+        border-bottom: 1px solid #ddd;
+        display: inline-grid;
+    }
+    
+    .nav {
+        border-left: 1px solid black;
+    }
+    
+    .item {
+        width: 50%;
+        height: 100%;
+        background-color: lawngreen;
+        position: absolute;
+        top: 100%;
+        left: 20%;
+        transform: translate(100% - 20%);
+    }
+    
+    .item .img {
+        max-width: 100%;
+        height: 200px;
+        background-color: aquamarine;
+    }
+    
+    #businnes {
+        height: 100%;
+        background-color: lawngreen;
+    }
+    
+    #service {
+        height: 100%;
+        background-color: #004AFF;
+    }
+    
+    #teams {
+        width: 100%;
+        height: 400px;
+        background-color: #929396;
+        position: relative;
+    }
+    
+    #started {
+        height: 100%;
+        background-color: #004AFF;
+    }
+    
+    #footer {
+        height: 100%;
+        background-color: #062063;
+    }
