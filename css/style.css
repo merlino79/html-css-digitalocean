@@ -29,11 +29,11 @@
     }
     
     img.loghi {
-        width: 220px;
-        background-color: #ebebeb;
+        width: 300px;
         position: fixed;
         top: 0;
         left: 0;
+        height: 80px;
     }
     
     #jambatron {
