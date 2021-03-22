@@ -12,7 +12,7 @@
     
     header {
         height: 65px;
-        background-color: #ebebeb;
+        background-color: #fff;
     }
     
     .header-up {
@@ -29,11 +29,21 @@
     }
     
     img.loghi {
-        width: 300px;
+        width: 250px;
         position: fixed;
         top: 0;
         left: 0;
-        height: 80px;
+        height: 65px;
+    }
+    
+    .link-central,
+    li {
+        display: inline;
+    }
+    
+    .link-central,
+    a {
+        color: black;
     }
     
     #jambatron {
