@@ -17,17 +17,14 @@
     }
     
     .header-up {
-        height: 80px;
+        width: 100%;
+        padding-top: 15px;
         line-height: 80px;
         position: fixed;
         z-index: 3;
         top: 0%;
         right: 0;
-    }
-    
-    .header-bottom {
-        min-height: 500px;
-        margin-top: 20px;
+        background-color: #fff;
     }
     
     img.loghi {
@@ -76,8 +73,7 @@
     .nav {
         border-left: 1px solid black;
     }
-    
-    .item {
+    /* .item {
         width: 50%;
         height: 100%;
         background-color: lawngreen;
@@ -85,7 +81,7 @@
         top: 100%;
         left: 20%;
         transform: translate(100% - 20%);
-    }
+    } */
     
     .item .img {
         max-width: 100%;
