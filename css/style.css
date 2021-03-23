@@ -108,6 +108,10 @@
         background-color: #004AFF;
     }
     
+    .bg-service {
+        color: #529EFD;
+    }
+    
     #teams {
         width: 100%;
         height: 400px;
