@@ -59,6 +59,12 @@
         background-image: url(../img/bg-banner-home.jpg);
     }
     
+    #loghi {
+        height: 100%;
+        background-color: rgb(227 227 227 / 29%);
+        width: 100%;
+    }
+    
     #developer {
         width: 100%;
         height: 400px;
