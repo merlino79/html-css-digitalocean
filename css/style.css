@@ -59,7 +59,7 @@
     
     #jambatron {
         width: 100%;
-        height: 400px;
+        height: 100%;
         background-image: url(../img/bg-banner-home.jpg);
     }
     
@@ -67,6 +67,11 @@
         height: 100%;
         background-color: rgb(227 227 227 / 29%);
         width: 100%;
+    }
+    
+    #deploy {
+        width: 100%;
+        height: 100%;
     }
     
     #developer {
@@ -86,7 +91,7 @@
     }
     
     .item {
-        width: 300px;
+        width: 560px;
         height: 200px;
         position: absolute;
         top: 110%;
@@ -96,7 +101,7 @@
     
     .item .img {
         max-width: 100%;
-        height: 200px;
+        height: 150px;
     }
     
     #businnes {
@@ -112,15 +117,19 @@
         color: #529EFD;
     }
     
+    @media (min-width: 992px) .col-md-6 {
+        width: 50%;
+        border-bottom: 1px solid;
+    }
+    
     #teams {
         width: 100%;
-        height: 400px;
-        background-color: #929396;
+        height: 300px;
         position: relative;
     }
     
     #started {
-        height: 100%;
+        height: 300px;
         background-color: #004AFF;
     }
     
