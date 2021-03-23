@@ -73,20 +73,18 @@
     .nav {
         border-left: 1px solid black;
     }
-    /* .item {
-        width: 50%;
-        height: 100%;
-        background-color: lawngreen;
+    
+    .item {
+        width: 300px;
+        height: 200px;
         position: absolute;
-        top: 100%;
-        left: 20%;
-        transform: translate(100% - 20%);
-    } */
+        top: 110%;
+        left: 37%;
+    }
     
     .item .img {
         max-width: 100%;
         height: 200px;
-        background-color: aquamarine;
     }
     
     #businnes {
