@@ -53,6 +53,10 @@
         border-color: #ccc;
     }
     
+    .bg-white {
+        color: #fff;
+    }
+    
     #jambatron {
         width: 100%;
         height: 400px;
