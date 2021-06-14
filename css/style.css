@@ -19,8 +19,8 @@
     
     .header-up {
         width: 100%;
-        padding-top: 15px;
-        line-height: 80px;
+        height: 70px;
+        line-height: 70px;
         position: fixed;
         z-index: 3;
         top: 0%;
@@ -29,11 +29,11 @@
     }
     
     img.loghi {
-        width: 250px;
+        width: 176px;
         position: fixed;
-        top: 0;
-        left: 0;
-        height: 65px;
+        top: 2%;
+        left: 13%;
+        height: 46px;
     }
     
     .link-central,
